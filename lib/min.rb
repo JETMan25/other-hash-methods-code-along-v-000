@@ -10,7 +10,10 @@ require 'pry'
 
 def get_the_min(groceries)
   letters = {a: 1, b: 2}
+  letter.min 
   
+  alphabetical_order = {c: 100, d: 1}
+  alphabetical_order.min
   
   #code your solution here!
 end
