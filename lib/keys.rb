@@ -11,7 +11,7 @@ require 'pry'
 def get_the_keys(groceries)
   groceries.each do |keys, values|
    
-    #binding.pry
+    binding.pry
  end 
-  :keys
+  
 end
