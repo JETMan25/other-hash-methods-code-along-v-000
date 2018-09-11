@@ -9,7 +9,7 @@ require 'pry'
 # }
 
 def get_the_keys(groceries)
-  groceries.each do |keys[], grocery_items[]|
+  groceries.each do |keys|
      keys
     #binding.pry
  end 
