@@ -10,7 +10,7 @@ require 'pry'
 
 def get_the_keys(groceries)
   groceries.each do |keys|
-     keys
+     keys[0]
     #binding.pry
  end 
 
