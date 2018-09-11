@@ -9,9 +9,6 @@ require 'pry'
 # }
 
 def get_the_keys(groceries)
-  groceries.each do |keys|
+ 
      
-    #binding.pry
- end 
-keys
-end
+    
