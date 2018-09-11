@@ -9,5 +9,8 @@ require 'pry'
 # }
 
 def get_the_min(groceries)
+  letters = {a: 1, b: 2}
+  
+  
   #code your solution here!
 end
