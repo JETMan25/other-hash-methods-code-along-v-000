@@ -13,5 +13,5 @@ def get_the_keys(groceries)
      
     #binding.pry
  end 
-keys[0]
+keys
 end
